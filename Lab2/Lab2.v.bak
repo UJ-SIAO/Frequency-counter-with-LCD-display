@@ -1,0 +1,4 @@
+module Lab2(
+	CLK_50M;
+	CLK_IN;
+	);

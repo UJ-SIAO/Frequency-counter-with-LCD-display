@@ -1,0 +1,598 @@
+# vsim -gui -l msim_transcript work.Lab2_tb 
+# Start time: 16:43:17 on Apr 29,2020
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+add wave -position insertpoint  \
+sim:/Lab2_tb/rst_n \
+sim:/Lab2_tb/LCD_EN \
+sim:/Lab2_tb/LCD_DATA \
+sim:/Lab2_tb/LCD_RW \
+sim:/Lab2_tb/LCD_RS \
+sim:/Lab2_tb/LCD_ON \
+sim:/Lab2_tb/LCD_BLON \
+sim:/Lab2_tb/flag_complete1
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+add wave -position insertpoint  \
+sim:/Lab2_tb/uut/ini/counter \
+sim:/Lab2_tb/uut/ini/counter_busy
+restart
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v failed with 1 errors.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 1 failed with 1 error.
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v failed with 1 errors.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 1 failed with 1 error.
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+run -all
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v failed with 4 errors.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 1 failed with 4 errors.
+restart
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run -all
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab2_tb
+# Loading work.Lab2
+# Loading work.init
+# Loading work.WR_Oper
+# Loading work.showHz
+# Loading work.edge_detect
+# Loading work.select
+# Loading work.switch
+run -continue
+# ** Note: $stop    : D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v(42)
+#    Time: 520 ns  Iteration: 0  Instance: /Lab2_tb
+# Break in Module Lab2_tb at D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v line 42
+run
+# End time: 20:46:34 on Apr 29,2020, Elapsed time: 4:03:17
+# Errors: 12, Warnings: 1

@@ -1,0 +1,16 @@
+module init(
+	clk_50M,
+	data
+);
+
+input CLK_50M;
+output data;
+
+reg [9:0]data;
+
+always@(posedge clk_50M or negedge rst_n)
+begin
+	
+end
+
+

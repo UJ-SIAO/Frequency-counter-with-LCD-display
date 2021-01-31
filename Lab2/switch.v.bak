@@ -1,0 +1,18 @@
+module switch(
+	CLK_50M,
+	rst_n,
+	LCD_RS1,
+	LCD_RW1,
+	LCD_EN1,
+	LCD_DATA1,
+	Enable1,
+	LCD_RS2,
+	LCD_RW2,
+	LCD_EN2,
+	LCD_DATA2,
+	Enable2,
+	LCD_RS,
+	LCD_RW,
+	LCD_EN,
+	LCD_DATA,
+);

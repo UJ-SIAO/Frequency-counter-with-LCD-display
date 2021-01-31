@@ -1,0 +1,247 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QuartusCode/Lab2/simulation/modelsim
+vedge_detect
+Z1 !s110 1588163695
+!i10b 1
+!s100 Ml@o38D2fooTZ:`9ojS>g1
+IL6fX3ANTZV7DQ`63fG9=[0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1587196194
+8D:/QuartusCode/Lab2/edge_detect.v
+FD:/QuartusCode/Lab2/edge_detect.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1588163695.000000
+!s107 D:/QuartusCode/Lab2/edge_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/edge_detect.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vinit
+R1
+!i10b 1
+!s100 kcd0F1dU<zdlOlO<md:2O1
+IHGZOh2E1Be8_[bK1;NUo:0
+R2
+R0
+w1588162572
+8D:/QuartusCode/Lab2/init.v
+FD:/QuartusCode/Lab2/init.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/init.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/init.v|
+!i113 1
+R5
+R6
+vinit_tb
+Z7 !s110 1588163694
+!i10b 1
+!s100 X9me<M5i@SKV8gMhU?WLi1
+IIF_VQPnF0GK;BE4e[d>JD2
+R2
+R0
+w1587197536
+8D:/QuartusCode/Lab2/simulation/modelsim/init_tb.v
+FD:/QuartusCode/Lab2/simulation/modelsim/init_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1588163694.000000
+!s107 D:/QuartusCode/Lab2/simulation/modelsim/init_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/simulation/modelsim/init_tb.v|
+!i113 1
+R5
+R6
+vLab2
+R1
+!i10b 1
+!s100 oc?b7n]IJ9L6?Okln`MnG1
+Ig_QhzlLGe9Mh[hM4K`l]?0
+R2
+R0
+w1588161982
+8D:/QuartusCode/Lab2/Lab2.v
+FD:/QuartusCode/Lab2/Lab2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/Lab2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/Lab2.v|
+!i113 1
+R5
+R6
+n@lab2
+vLab2_tb
+R1
+!i10b 1
+!s100 nC5PdfDjfzTlMVcG1m_3[3
+IoFj0nmhzj<TghhnY;_@RC2
+R2
+R0
+w1588163690
+8D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v
+FD:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/simulation/modelsim/Lab2_tb.v|
+!i113 1
+R5
+R6
+n@lab2_tb
+vselect
+R1
+!i10b 1
+!s100 >b`h6o9ne6nc@G?oU2FHI1
+IQhM7iEgSESzbYdaB8S6:i0
+R2
+R0
+w1588159961
+8D:/QuartusCode/Lab2/select.v
+FD:/QuartusCode/Lab2/select.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/select.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/select.v|
+!i113 1
+R5
+R6
+vshowHz
+R1
+!i10b 1
+!s100 2PN?;iRnPCSldFWVZz4D]2
+IEI6=IITP[3j>b4hYQV_:L3
+R2
+R0
+w1588163003
+8D:/QuartusCode/Lab2/showHz.v
+FD:/QuartusCode/Lab2/showHz.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/showHz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/showHz.v|
+!i113 1
+R5
+R6
+nshow@hz
+vshowHz_tb
+R1
+!i10b 1
+!s100 4EdRi<R2SG[RK<e^YY5hL3
+Imzlgjng:0HFMZkL?fW8`k1
+R2
+R0
+w1587196099
+8D:/QuartusCode/Lab2/simulation/modelsim/showHz_tb.v
+FD:/QuartusCode/Lab2/simulation/modelsim/showHz_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/simulation/modelsim/showHz_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/simulation/modelsim/showHz_tb.v|
+!i113 1
+R5
+R6
+nshow@hz_tb
+vswitch
+R1
+!i10b 1
+!s100 UTa_PaW1i5M^WMXX[;2eL1
+I^Fj3o3YT]JCD2Kn=XFo?l2
+R2
+R0
+w1588157649
+8D:/QuartusCode/Lab2/switch.v
+FD:/QuartusCode/Lab2/switch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab2/switch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/switch.v|
+!i113 1
+R5
+R6
+vWR_Oper
+R7
+!i10b 1
+!s100 l9O:9ClS_=bXL;fP6BR:z3
+IOa_LOn@AkMI]7H;BlB?kA1
+R2
+R0
+w1588157156
+8D:/QuartusCode/Lab2/WR_Oper.v
+FD:/QuartusCode/Lab2/WR_Oper.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/QuartusCode/Lab2/WR_Oper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/WR_Oper.v|
+!i113 1
+R5
+R6
+n@w@r_@oper
+vWR_Oper_tb
+R7
+!i10b 1
+!s100 J:3:<@A<@RoTO;KA5zafI0
+IPBQJnSzQP6hb7_LL`5o]^1
+R2
+R0
+w1587045942
+8D:/QuartusCode/Lab2/simulation/modelsim/WR_Oper_tb.v
+FD:/QuartusCode/Lab2/simulation/modelsim/WR_Oper_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/QuartusCode/Lab2/simulation/modelsim/WR_Oper_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab2/simulation/modelsim/WR_Oper_tb.v|
+!i113 1
+R5
+R6
+n@w@r_@oper_tb

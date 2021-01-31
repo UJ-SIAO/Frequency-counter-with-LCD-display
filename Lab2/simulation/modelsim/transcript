@@ -1,0 +1,13 @@
+# Compile of WR_Oper.v was successful.
+# Compile of WR_Oper_tb.v was successful.
+# Compile of init_tb.v was successful.
+# Compile of init.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of select.v was successful.
+# Compile of showHz.v was successful.
+# Compile of showHz_tb.v was successful.
+# Compile of Lab2.v was successful.
+# Compile of switch.v was successful.
+# Compile of Lab2_tb.v was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.Lab2_tb
